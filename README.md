@@ -27,7 +27,7 @@ I focus on turning complex data into structured decision tools.
 - VBA
 
 **Analytics & Apps**
-- Dash (data apps & internal dashboards)
+- Streamlit (data apps & internal dashboards)
 - Power BI
 - Excel automation
 
